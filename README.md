@@ -11,13 +11,7 @@ Você já ouviu falar que a produção de alimentos é mais que suficiente para 
 Desse ponto de partida, é necessário pensar em soluções viáveis que possam diminuir a quantidade de desperdício. A chave principal para esse problema, é ligar quem quer ajuda com quem precisa de ajuda. Produtores, restaurantes, supermercados e outros, podem atuar como um dos principais agentes para que essa mudança aconteça, rendo ONGs, igrejas e pontos de coletas para que suas doações chegue a famílias carentes de todo o Brasil. Além disso, é importantíssimo instruir sobre o aproveitamento dos alimentos, a compostagem e a reciclagem podem diminuir drasticamente o desperdício.  
 
 ### 🎯 O sistema
-Um sistema que conecta doadores a famílias carentes e os educa sobre como evitar o desperdício de alimentos. Nossa inspiração inicial foi o Food to Save, que tem a ideia de diminuir o desperdício de alimentos vendendo-os mais baratos por estarem perto da data de validade. Mas 
-
-### 🎯 Nicho
-Alimentício e social.
-
-### ❓ Qual problema resolve?
-O sistema busca reduzir o desperdício de alimentos e combater a fome, conectando empresas doadoras a famílias carentes e ONGs, além de fornecer educação sobre o aproveitamento sustentável dos alimentos.
+<!-- em construção -->
 
 ### 🆕 Nosso diferencial
 Apesar de já existirem iniciativas semelhantes, nosso projeto se destaca por trabalhar tanto com doações quanto com a educação dos consumidores, incentivando o aproveitamento total dos alimentos e suas embalagens, além de incentivar a agricultura familiar.
