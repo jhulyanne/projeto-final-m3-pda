@@ -18,7 +18,6 @@ Apesar de já existirem iniciativas semelhantes, nosso projeto se destaca por tr
 
 ## 💭 Diagrama conceitual
 - Tecnologia usada: BRMW
-- Principais responsáveis: [Désiree](https://github.com/Desiree2522) e [Luana](https://github.com/LuanaAguilar2)
 - [Link para melhor visualização](https://app.brmodeloweb.com/#!/publicview/67bf1540a68fde8eca2b836e)
 <div align="center">
     <img alt="modelo-conceitual" src="diagrama-conceitual.png" height="500px" widgh="auto">
@@ -26,8 +25,16 @@ Apesar de já existirem iniciativas semelhantes, nosso projeto se destaca por tr
 
 ## 💬 Diagrama lógico
 - Tecnologia usada: DBDIAGRAM
-- Principais responsáveis: 
-- [Link para melhor visualização]()
+- [Link para melhor visualização](https://dbdiagram.io/d/projeto-final-m3-67ab75ef263d6cf9a0cb0760)
 <div align="center">
-    <img alt="modelo-lógico" src="" height="500px" widgh="auto">
+    <img alt="modelo-lógico" src="diagrama-logico.png" height="500px" widgh="auto">
 </div>
+
+## 👥 Colaboradores
+- [Désiree](https://github.com/Desiree2522)
+- [Hadiel](https://github.com/hadiel7)
+- [Jhulyanne](https://github.com/jhulyanne)
+- [Luana](https://github.com/LuanaAguilar2)
+- [Silas](https://github.com/SilasCorreia8)
+- [Stacy](https://github.com/stacylinda17)
+- [Yasmin](https://github.com/YasmimResendes)
