@@ -34,7 +34,7 @@ Apesar de já existirem iniciativas semelhantes, nosso projeto se destaca por tr
 - [Désiree](https://github.com/Desiree2522)
 - [Hadiel](https://github.com/hadiel7)
 - [Jhulyanne](https://github.com/jhulyanne)
-- [Luana](https://github.com/LuanaAguilar2)
+- [Luana Julia Alves Aguilar](https://github.com/LuanaAguilar2)
 - [Silas](https://github.com/SilasCorreia8)
 - [Stacy](https://github.com/stacylinda17)
 - [Yasmin](https://github.com/YasmimResendes)
