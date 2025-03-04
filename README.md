@@ -31,10 +31,13 @@ Apesar de já existirem iniciativas semelhantes, nosso projeto se destaca por tr
 </div>
 
 ## 👥 Colaboradores
-- [Désiree](https://github.com/Desiree2522)
-- [Hadiel](https://github.com/hadiel7)
-- [Jhulyanne](https://github.com/jhulyanne)
-- [Luana Julia Alves Aguilar](https://github.com/LuanaAguilar2)
-- [Silas](https://github.com/SilasCorreia8)
-- [Stacy](https://github.com/stacylinda17)
-- [Yasmin](https://github.com/YasmimResendes)
+
+| Colaborador  | GitHub | LinkedIn |
+|-------------|--------|----------|
+| Désiree | [GitHub]() | [LinkedIn]() |
+| Hadiel | [GitHub]() | [LinkedIn]() |
+| Jhulyanne | [GitHub](https://github.com/jhulyanne) | [LinkedIn](https://www.linkedin.com/in/jhulyanne-oliveira/) |
+| Luana | [GitHub]() | [LinkedIn]() |
+| Silas | [GitHub]() | [LinkedIn]() |
+| Stacy | [GitHub]() | [LinkedIn]() |
+| Yasmin | [GitHub]() | [LinkedIn]() |
