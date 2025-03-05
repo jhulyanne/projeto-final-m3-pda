@@ -1,1 +1,3 @@
--- códigos de criação do banco de dados  
+CREATE DATABASE refood;
+
+USE refood;
