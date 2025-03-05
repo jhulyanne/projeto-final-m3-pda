@@ -20,14 +20,14 @@ Apesar de já existirem iniciativas semelhantes, nosso projeto se destaca por tr
 - Tecnologia usada: BRMW
 - [Link para melhor visualização](https://app.brmodeloweb.com/#!/publicview/67bf1540a68fde8eca2b836e)
 <div align="center">
-    <img alt="modelo-conceitual" src="diagrama-conceitual.png" height="500px" widgh="auto">
+    <img alt="modelo-conceitual" src="assets/diagramas/diagrama-conceitual.png" height="500px" widgh="auto">
 </div>
 
 ## 💬 Diagrama lógico
 - Tecnologia usada: DBDIAGRAM
 - [Link para melhor visualização](https://dbdiagram.io/d/projeto-final-m3-67ab75ef263d6cf9a0cb0760)
 <div align="center">
-    <img alt="modelo-lógico" src="diagrama-logico.png" height="500px" widgh="auto">
+    <img alt="modelo-lógico" src="assets/diagramas/diagrama-logico.png" height="500px" widgh="auto">
 </div>
 
 ## 👥 Colaboradores
