@@ -10,8 +10,11 @@ Você já ouviu falar que a produção de alimentos é mais que suficiente para 
 ## ❓ As possíveis soluções
 Deste ponto de partida, é necessário pensar em soluções viáveis que possam diminuir a quantidade de desperdício. A chave principal para esse problema, é ligar quem quer ajudar com quem precisa de ajuda. Produtores, restaurantes, supermercados, entre outros, podem atuar como um dos principais agentes para que essa mudança aconteça, tendo ONGs, igrejas e pontos de coletas para que suas doações cheguem a famílias carentes de todo o Brasil. Além disso, é importantíssimo instruir sobre o aproveitamento dos alimentos. Só a compostagem e a reciclagem já podem diminuir drasticamente o desperdício.  
 
-## 🎯 O sistema
-em construção
+## 💻 O sistema
+Nosso sistema é uma plataforma que conecta doadores de alimentos a famílias em situação de vulnerabilidade, visando combatendo a fome e o desperdício. Este sistema é um passo importante para construir um futuro com menos fome e desperdício, onde a solidariedade e a educação caminham juntas.  
+
+## 🎯 Nosso objetivo
+Nosso objetivo é criar uma rede de solidariedade que não apenas forneça alimentos, mas também promova a educação e a conscientização sobre o uso responsável dos recursos alimentares.
 
 ## 🆕 Nosso diferencial
 Apesar de já existirem iniciativas semelhantes, nosso projeto se destaca por trabalhar tanto com doações quanto com a educação dos consumidores, incentivando o aproveitamento total dos alimentos e suas embalagens, além de incentivar a agricultura familiar.
@@ -38,6 +41,6 @@ Apesar de já existirem iniciativas semelhantes, nosso projeto se destaca por tr
 | Hadiel | [GitHub]() | [LinkedIn]() |
 | Jhulyanne | [GitHub](https://github.com/jhulyanne) | [LinkedIn](https://www.linkedin.com/in/jhulyanne-oliveira/) |
 | Luana | [GitHub]() | [LinkedIn]() |
-| Silas | [GitHub]() | [LinkedIn]() |
+| Silas | [GitHub](https://github.com/SilasCorreia8) | [LinkedIn](www.linkedin.com/in/silas-correia-leite-da-silva-108726282) |
 | Stacy | [GitHub]() | [LinkedIn]() |
 | Yasmin | [GitHub]() | [LinkedIn]() |
