@@ -4,5 +4,5 @@ CREATE TABLE Rota(
     placa_veiculo VARCHAR(10),
     data_saida DATE, 
     origem INTEGER ,
-    FOREIGN KEY (produtor) REFERENCES produtor(id) ON DELETE SET NULL
-)
+    FOREIGN KEY (origem) REFERENCES produtor(id) ON DELETE SET NULL
+);

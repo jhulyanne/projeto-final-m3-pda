@@ -8,5 +8,7 @@ CREATE TABLE Produto (
     peso DECIMAL(10.2),
     observacoes TEXT,
     rota INTEGER,
-    FOREIGN KEY (produtor) REFERENCES produtor(id) ON DELETE SET NULL
-)
+    
+    FOREIGN KEY (produtor) REFERENCES produtor(id) ON DELETE SET NULL,
+    FOREIGN KEY (rota) REFERENCES rota(id) ON DELETE SET NULL
+);
