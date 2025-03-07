@@ -7,4 +7,4 @@ CREATE TABLE Produtor(
     telefone VARCHAR(20),
     email VARCHAR(100),
     nome_representante VARCHAR(150)
-);Nazaré Filgueiras
+);
