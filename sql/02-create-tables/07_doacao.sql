@@ -7,7 +7,7 @@ CREATE TABLE doacao (
 	peso DECIMAL(10,2),
 	quantidade_itens INT,
 	itens TEXT,
-	status ENUM('Aguardando retirada', ' Em transporte', ' Entregue', ' Cancelada'),
+	status ENUM('Aguardando retirada', 'Em transporte', 'Entregue', 'Cancelada'),
     
 	FOREIGN KEY (empresa) REFERENCES empresa(cnpj) ON DELETE SET NULL, 
 	FOREIGN KEY (ponto_distribuicao) REFERENCES ponto_de_distribuicao(cnpj) ON DELETE SET NULL
