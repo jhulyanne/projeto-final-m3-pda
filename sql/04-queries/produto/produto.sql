@@ -5,7 +5,7 @@ SELECT * FROM produto;
 
 /*Mostrar os produtos que vencerão nos proximos 30 dias*/
 SELECT * FROM produto
-WHERE validade BETWEEN CURTADE() AND DATE_ADD(CURDATE(), INTERVAL 30 DAY); 
+WHERE validade BETWEEN CURDATE() AND DATE_ADD(CURDATE(), INTERVAL 30 DAY); 
 
 /*Mostrar os produtos de um produtor especifico*/
 SELECT * FROM produto WHERE produtor = 2;
