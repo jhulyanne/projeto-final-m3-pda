@@ -16,5 +16,6 @@ SELECT tipo, COUNT(*) AS total FROM produto GROUP BY tipo;
 /*Mostrar os produtos ordenados por peso menor para o peso maior*/
 SELECT * FROM produto ORDER BY peso DESC;
 
-
+/*Mostra quantos produtos tem peso entre 10 e 20 */
+SELECT COUNT(*) AS total_produtos FROM produto WHERE peso BETWEEN 10 AND 20;
  
