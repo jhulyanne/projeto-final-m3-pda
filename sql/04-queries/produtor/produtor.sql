@@ -20,16 +20,18 @@ LEFT JOIN empresa ON entrega.destino = empresa.cnpj
 WHERE empresa.nome IS NOT NULL;
 
 
--- 4 - Retorna a região de cada produtor levando em conta o DDD
-SELECT nome, tipo, cnpj,
-	CASE 
-    -- o substring seleciona o atributo que armazena uma string e pega um pedaço de uma sequência, definido pelos números entre parênteses.
-    -- o primeiro significa que ele vai começar do segundo caracter, ignorando o primeiro, e vai pegar 2 caracteres depois disso, ou seja, o DDD
-		WHEN SUBSTRING(telefone, 2, 2) BETWEEN '71' AND '89' THEN  'Nordeste'
-		WHEN SUBSTRING(telefone, 2, 2) BETWEEN '68' AND '69' OR SUBSTRING(telefone, 2, 2) BETWEEN '91' AND '99' THEN 'Norte'
-		WHEN SUBSTRING(telefone, 2, 2) BETWEEN '61' AND '67' THEN 'Centro-Oeste'
-		WHEN SUBSTRING(telefone, 2, 2) BETWEEN '10' AND '40' THEN 'Sudeste'
-		WHEN SUBSTRING(telefone, 2, 2) BETWEEN '41' AND '49' THEN 'Sul'
-		ELSE 'DDD não reconhecido'        
-	END AS regiao
-FROM produtor;
+-- 4 - Retorna a região de cada produtor levando em conta o DDD, depois conta quantos tem em cada região
+SELECT 
+    CASE 
+-- o substring seleciona o atributo que armazena uma string e pega um pedaço de uma sequência, definido pelos números entre parênteses.
+-- o primeiro significa que ele vai começar do segundo caracter, ignorando o primeiro, e vai pegar 2 caracteres depois disso, ou seja, o DDD
+        WHEN SUBSTRING(telefone, 2, 2) BETWEEN '71' AND '89' THEN 'Nordeste'
+        WHEN SUBSTRING(telefone, 2, 2) BETWEEN '68' AND '69' OR SUBSTRING(telefone, 2, 2) BETWEEN '91' AND '99' THEN 'Norte'
+        WHEN SUBSTRING(telefone, 2, 2) BETWEEN '61' AND '67' THEN 'Centro-Oeste'
+        WHEN SUBSTRING(telefone, 2, 2) BETWEEN '10' AND '40' THEN 'Sudeste'
+        WHEN SUBSTRING(telefone, 2, 2) BETWEEN '41' AND '49' THEN 'Sul'
+        ELSE 'DDD não reconhecido'        
+    END AS regiao,
+    COUNT(*) AS total_produtores
+FROM produtor
+GROUP BY regiao;
