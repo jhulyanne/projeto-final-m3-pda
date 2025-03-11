@@ -1,6 +1,6 @@
 ### Contagem de produtos por categoria 
 O gráfico a seguir exibe uma quantidade de produtos cadastrados no sistema, classificados em três categorias: fresco , perecível e não perecível .
-Atualmente, há 3 produtos afrescos , 4 perecíveis e 3 não perecíveis . Isso indica um aumento na quantidade de produtos perecíveis em relação às outras categorias, enquanto os produtos frescos e não perecíveis possuem a mesma quantidade.
+Atualmente, há 3 produtos frescos , 4 perecíveis e 3 não perecíveis . Isso indica um aumento na quantidade de produtos perecíveis em relação às outras categorias, enquanto os produtos frescos e não perecíveis possuem a mesma quantidade.
 
 ![Grafico de contagem de produtos por categoria](../../../assets/gráficos/produto-1.png)
 > o gráfico representa a consulta número 3 do banco de dados [Produto](produto.sql)
