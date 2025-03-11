@@ -8,5 +8,4 @@ SELECT * FROM refood.rota ORDER BY origem DESC;
 
 /*Selecioa três colunas e as muda para ordem decresente*/
 SELECT tipo_veiculo, placa_veiculo, origem
-FROM refood.rota 
-ORDER BY tipo_veiculo, placa_veiculo DESC;
+FROM refood.rota ORDER BY origem DESC;
