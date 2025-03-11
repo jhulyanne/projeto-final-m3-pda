@@ -1,7 +1,7 @@
 use refood;
 
 -- Mostrar todas as doações com status "Entregue"
-SELECT *
+SELECT itens
 FROM doacao
 WHERE status = 'Entregue';
 
