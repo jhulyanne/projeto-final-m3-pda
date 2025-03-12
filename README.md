@@ -1,4 +1,4 @@
-<h1 align='center'>Nome do Projeto</h1>
+<h1 align='center'>ReFood</h1>
 
 > Projeto do **Squad 6** para o Módulo 3 do curso **Desenvolvimento Web Full-Stack**, do [Programadores do Amanhã](https://programadoresdoamanha.org.br/pt) - Criatividade analista 🔎
 ### "Em 2019, foi jogado fora quase um bilhão de toneladas de alimentos. 690 milhões de pessoas estavam subnutridas no mundo no mesmo ano" <br><br> "Enquanto o Brasil é um dos maiores exportadores de insumos agrícolas do mundo, os brasileiros sofrem com a desigualdade na distribuição de alimentos e a fome."<br>
