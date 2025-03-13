@@ -1,7 +1,4 @@
-
-
 ## 1. Visão Geral do Sistema
-
 Este sistema visa conectar doadores a famílias carentes, promovendo a monitoração de alimentos desde o transporte até a doação e a educação das famílias sobre como evitar o desperdício alimentício e social.
 
 O objetivo é criar um ciclo de solidariedade e conscientização, proporcionando uma experiência mais conectada e transparente para famílias, doadores e produtores. Além disso, o sistema deve gerar indicadores que auxiliem na análise de impacto social e no acompanhamento das atividades educacionais.
@@ -31,7 +28,6 @@ O sistema registrará a participação das famílias nos workshops e acompanhar�
 Acompanhar os alimentos desde a saída das fazendas e fábricas para garantir que todas as etapas sejam conduzidas de forma adequada, evitando desperdício desde o início da cadeia de distribuição.
 
 ## 3. Requisitos Funcionais
-
 ### 3.1 Cadastro de Famílias
 **Objetivo:** Registrar as famílias carentes no sistema e vinculá-las a um ponto de distribuição adequado.
 - **Validação de Dados:** Os campos devem ser validados para garantir consistência, como o formato correto do CPF e dados de contato.

@@ -1,3 +1,5 @@
+- Observação: nesta primeira versão do projeto, decidimos não implementar tipos diferentes de usuários, a fins de simplicidade, mas caso o projeto cresça, seria interessante que cada produtor, empresa e família possa se cadastrar e generenciar sua conta por conta própria.
+
 ### 1. Cadastro e Gestão de Famílias em Situação de Vulnerabilidade Social
 - **CF001** - Todas as famílias cadastradas devem estar vinculadas a apenas um ponto de distribuição para otimizar a logística das doações.
 - **CF002** - O CPF do responsável familiar deve ser único no sistema, impedindo registros duplicados e garantindo a rastreabilidade.
@@ -8,10 +10,10 @@
 - **CF004** - A data da última doação recebida pela família deve ser registrada para fins de controle.
 
 ### 2. Cadastro e Gestão de Instituições (Pontos de Distribuição, Empresas e Produtores)
-- **CE001** - Cada instituição deve possuir um CNPJ válido e único para garantir a autenticidade da operação.
-- **CE002** - O sistema deve permitir a consulta e filtragem dos pontos de distribuição por localização, contato e histórico de workshops, doações e produtos.
-- **CE003** - Somente administradores e responsáveis autorizados poderão editar ou excluir registros de instituições.
-- **CE004** - Uma instituição não pode ser desativada caso possua workshops, doações ou entregas pendentes.
+- **CI001** - Cada instituição deve possuir um CNPJ válido e único para garantir a autenticidade da operação.
+- **CI002** - O sistema deve permitir a consulta e filtragem dos pontos de distribuição por localização, contato e histórico de workshops, doações e produtos.
+- **CI003** - Somente administradores e responsáveis autorizados poderão editar ou excluir registros de instituições.
+- **CI004** - Uma instituição não pode ser desativada caso possua workshops, doações ou entregas pendentes.
 
 ### 3. Promoção de Workshops
 - **PW001** - Todos os workshops devem estar vinculados a pelo menos um ponto de distribuição, podendo ser realizados em diferentes locais, datas e horários.
