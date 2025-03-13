@@ -37,10 +37,10 @@ Apesar de já existirem iniciativas semelhantes, nosso projeto se destaca por tr
 
 | Colaborador  | GitHub | LinkedIn |
 |-------------|--------|----------|
-| Désiree | [GitHub]() | [LinkedIn]() |
-| Hadiel | [GitHub]() | [LinkedIn]() |
+| Désiree | [GitHub](https://github.com/Desiree2522) | [LinkedIn](https://www.linkedin.com/in/desiree-vitoria-213723318/) |
+| Hadiel | [GitHub](https://github.com/hadiel7) | [LinkedIn](https://www.linkedin.com/in/hadiel-de-paula-5421b131b/) |
 | Jhulyanne | [GitHub](https://github.com/jhulyanne) | [LinkedIn](https://www.linkedin.com/in/jhulyanne-oliveira/) |
-| Luana | [GitHub]() | [LinkedIn]() |
+| Luana | [GitHub](https://github.com/LuanaAguilar2) | [LinkedIn](https://www.linkedin.com/in/luana-aguilar-bb65b7258/) |
 | Silas | [GitHub](https://github.com/SilasCorreia8) | [LinkedIn](www.linkedin.com/in/silas-correia-leite-da-silva-108726282) |
-| Stacy | [GitHub]() | [LinkedIn]() |
-| Yasmin | [GitHub]() | [LinkedIn]() |
+| Stacy | [GitHub](https://github.com/Stacyamado17) | [LinkedIn](https://www.linkedin.com/in/stacy-amanda-amado-000125326/) |
+| Yasmin | [GitHub](https://github.com/YasmimResendes) | [LinkedIn](https://www.linkedin.com/in/yasmim-resende-0b261624a/) |
